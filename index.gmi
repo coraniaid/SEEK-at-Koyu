@@ -15,7 +15,7 @@
 ##Welcome to my Koyu page!
 
 ###2021-Jan
-->
+=>gemini://koyu.space/SEEK/firstKoyu.gmi Koyu!!
 
 ▒ ▒▓▒ ▒ ░▒▓▒░ ░ ░ ▒▒  ▓▒█░░ ░▒ ▒  ░░░ ▒░ ░░ ▓░▒ ▒   ▒▒  ▓▒█░░▒░▓  ░▒ ▒▒ ▓▒
 ░ ░▒  ░ ░░▒ ░      ▒  ▒▒ ░  ░  ▒    ░ ░  ░  ▒ ░ ░    ▒  ▒▒ ░░░ ▒  ░░ ░▒ ▒░
