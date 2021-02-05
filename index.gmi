@@ -16,6 +16,7 @@
 ##Welcome to my Koyu page!
 
 ###Other Links
+
 =>gemini://gemlog.blue/users/SEEK/ My gemlog page
 =>gemini://seek.flounder.online/ My flounder page
 =>https://koyu.space/@seek Me on Fediverse
