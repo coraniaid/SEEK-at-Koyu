@@ -14,6 +14,10 @@
 
 ##Welcome to my Koyu page!
 
+=>gemini://gemlog.blue/users/SEEK/ My gemlog page
+=>gemini://seek.flounder.online/ My flounder page
+=>https://koyu.space/@seek Me on Fediverse
+
 ###2021-Jan
 =>gemini://koyu.space/SEEK/firstKoyu.gmi Koyu!!
 
