@@ -23,6 +23,7 @@
 
 ###2021-Feb
 =>gemini://koyu.space/SEEK/post1.gmi Played GTA Sanandreas!
+=>gemini://koyu.space/SEEK/post2.gmi Played the Sims2 and got Dry Eyes Syndrome
 
 ###2021-Jan
 =>gemini://koyu.space/SEEK/firstKoyu.gmi Koyu!!
