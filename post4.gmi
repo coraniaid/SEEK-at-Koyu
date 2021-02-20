@@ -1,0 +1,20 @@
+#Movim
+
+Today I found about this great application called movim. Its' concept is really interesting, it is kind of like a blog feed but much better. It's decentalized and will act as a complete social media with the ability of creating posts, subscribing to other communities, chatting and even voice and video calls. Actually it acts as a frontend for the XMPP network. So it's safe to say, movim is the most user frindly XMPP application. 
+And if you already have an XMPP account you can use it to log into movim. If not you can just create a movim account. Even though movim is also still not a huge community, I think it has already satisfied our expectations. With something like movim it won't be very difficult to remove monopolistic social media like twitter, Facebook and even Whatsapp (I am pretty sure most people here are already free from those social media). 
+It can manage all the posts you want from sites like Fossbytes,It's FOSS news, Purism, Democracy Now, It's FOSS and so on. But still I am not sure if we can add other sites as we wish, I will find more about this.
+If you like software like this, I don't see any reason for you not to try movim,
+*It's Free
+*also available for Android
+*Don't need a phone number or an email
+*The interface is beautiful, organized and simple
+*Can be used to share emojis and other media files
+*Supports groups and channels
+*voice, video calls and screensharing (between two people)
+
+That's it for now! If you want to read more you can read more on,
+=>https://lemmy.ml/c/movim Lemmy!
+And there's a simple review and a guide to start
+=>https://www.ubuntubuzz.com/2021/02/movim-basic-review-beginners-guide.html Guide!
+
+Thank you for reading, stay happy and healthy!
