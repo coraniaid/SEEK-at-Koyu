@@ -23,6 +23,7 @@
 =>https://koyu.space/@seek Me on Fediverse
 
 ###2021-Feb
+=>gemini://koyu.space/SEEK/post5.gmi Buddhism and Cicada3301 personal views
 =>gemini://koyu.space/SEEK/post4.gmi Movim is cool!
 =>gemini://koyu.space/SEEK/post3.gmi LEMMY! the decentralized reddit alternative.
 =>gemini://koyu.space/SEEK/post2.gmi Played the Sims2 and got Dry Eyes Syndrome
