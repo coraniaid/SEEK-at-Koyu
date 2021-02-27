@@ -17,6 +17,7 @@
 
 ###Other Links
 
+=>gemini://seek.flounder.online/text-feed.gmi My post feed 
 =>gemini://gemlog.blue/users/SEEK/ My gemlog page
 =>gemini://seek.flounder.online/ My flounder page
 =>https://koyu.space/@seek Me on Fediverse
